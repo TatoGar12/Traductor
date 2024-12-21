@@ -1,4 +1,4 @@
-Traductor Español-Arábico (Chat Traductor)
+**Traductor Español-Arábico (Chat Traductor)**
 Este proyecto es un traductor de texto diseñado para integrarse en una interfaz de chat, con el objetivo de traducir mensajes del español al árabe. Utiliza la API de Google Translate para ofrecer traducciones automáticas en tiempo real.
 
 Características
